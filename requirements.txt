@@ -1,1 +1,5 @@
-
+torch
+torchaudio
+tokenizers
+transformers
+torchtune
